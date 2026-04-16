@@ -1,0 +1,22 @@
+{
+  "base_price": 2495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "social",
+  "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
+  "config_name": "Restaurant Social Ghosts in New Hampshire, US",
+  "export_job_id": "642083c7-94c1-4f2d-9331-cd4bc62c5794",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 833299,
+  "location_name": "New Hampshire",
+  "location_type": "state",
+  "repo_name": "restaurant-social-ghosts-in-new-hampshire-us-sample-833299",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/833299/beamstation_833299_restaurants-us-nh_SAMPLE_DIST.csv",
+  "sample_pct": 6.25,
+  "sample_records": 2,
+  "sample_sha256": "a3aec20fbec1157fa4bd8b8a4836de6e8ebdab531c81df63767a763d71af26ad",
+  "sample_size_bytes": 22462,
+  "total_records": 32,
+  "updated_at": "2026-04-08T06:52:43.420287+00:00"
+}
