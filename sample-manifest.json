@@ -1,0 +1,12 @@
+{
+  "export_job_id": "642083c7-94c1-4f2d-9331-cd4bc62c5794",
+  "id_short": 833299,
+  "published_at": "2026-04-16T19:22:05Z",
+  "repo_name": "restaurant-social-ghosts-in-new-hampshire-us-sample-833299",
+  "sample_asset_name": "beamstation_833299_restaurants-us-nh_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/833299/beamstation_833299_restaurants-us-nh_SAMPLE_DIST.csv",
+  "sample_records": 2,
+  "sample_sha256": "a3aec20fbec1157fa4bd8b8a4836de6e8ebdab531c81df63767a763d71af26ad",
+  "sample_size_bytes": 22462,
+  "total_records": 32
+}
