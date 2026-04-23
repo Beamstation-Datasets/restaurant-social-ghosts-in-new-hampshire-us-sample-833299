@@ -1,6 +1,6 @@
 # Restaurant Social Ghosts in New Hampshire, US
 
-> Free BeamStation sample export with 2 rows and masked direct-contact fields.
+> Free BeamStation sample export with 1 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `833299` |
 | Location | New Hampshire |
 | Category | Restaurants |
-| Full dataset size | 27 records |
-| Free sample size | 2 records (7.41%) |
-| Last export | 2026-04-15T10:23:33.564792+00:00 |
+| Full dataset size | 11 records |
+| Free sample size | 1 records (9.09%) |
+| Last export | 2026-04-22T17:54:43.919709+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-new-hampshire-us-sample-833299/releases/download/sample-latest/beamstation_833299_restaurants-us-nh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
