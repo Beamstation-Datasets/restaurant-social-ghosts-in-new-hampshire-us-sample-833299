@@ -6,17 +6,17 @@
   "config_category": "social",
   "config_description": "Marketing Agency Gold. High-rated restaurants (>4.5 rating) with low to zero social presence (<100 followers OR no social profiles) for social media marketing. Great product, terrible distribution -> Pitch them Growth.",
   "config_name": "Restaurant Social Ghosts in New Hampshire, US",
-  "export_job_id": "a2ad2819-bfc9-4f2d-841b-516192f20f63",
+  "export_job_id": "5be72424-381d-4c7e-a45b-de63e395aaf4",
   "github_org": "Beamstation-Datasets",
   "id_short": 833299,
   "location_name": "New Hampshire",
   "location_type": "state",
   "repo_name": "restaurant-social-ghosts-in-new-hampshire-us-sample-833299",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/833299/beamstation_833299_restaurants-us-nh_SAMPLE_DIST.csv",
-  "sample_pct": 9.09,
+  "sample_pct": 10.0,
   "sample_records": 1,
-  "sample_sha256": "3ce28b0072eeea9d08c7673d983a3c45a9054531b3ef1098e15865c0ab940230",
-  "sample_size_bytes": 20092,
-  "total_records": 11,
-  "updated_at": "2026-04-22T17:54:43.919709+00:00"
+  "sample_sha256": "882ea222430b857940412d4644b2ba86584c66f0ed6ae45f7999a90a4d2477ca",
+  "sample_size_bytes": 19344,
+  "total_records": 10,
+  "updated_at": "2026-04-29T17:36:25.248259+00:00"
 }
