@@ -9,9 +9,9 @@
 | Dataset ID | `833299` |
 | Location | New Hampshire |
 | Category | Restaurants |
-| Full dataset size | 11 records |
-| Free sample size | 1 records (9.09%) |
-| Last export | 2026-04-22T17:54:43.919709+00:00 |
+| Full dataset size | 10 records |
+| Free sample size | 1 records (10.0%) |
+| Last export | 2026-04-29T17:36:25.248259+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-social-ghosts-in-new-hampshire-us-sample-833299/releases/download/sample-latest/beamstation_833299_restaurants-us-nh_SAMPLE_DIST.csv) |
 
 ## What is in this sample
